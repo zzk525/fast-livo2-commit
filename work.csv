@@ -1,0 +1,13 @@
+编译：
+cd /home/zzk/SLAM/fast_livo2_ws
+catkin_make
+
+运行：
+cd /home/zzk/SLAM/fast_livo2_ws
+source ./devel/setup.bash
+roslaunch fast_livo mapping_avia.launch
+
+
+
+工程思维导图：
+https://whimsical.com/fast-livo-2-3GSpGrap5Dv6Cmkun2guF7
